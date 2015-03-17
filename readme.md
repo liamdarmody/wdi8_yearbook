@@ -17,6 +17,7 @@ The Class
 - Faryar Ghaemi
 - Julia Ryan
 - Mario Martinez
+- Sox Corcoran
 - Tom Valorsa
 - Xander O'Han
 - Xuemei Wang
